@@ -5,4 +5,10 @@
     font-size: 24pt;
     padding: 15px 50px;
     width: 300px;
+
+  }
+  .light {
+    background-color:rgb(116, 51, 105); 
+    color:  #d18fbd;
+
   }

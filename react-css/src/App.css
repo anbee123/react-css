@@ -1,9 +1,9 @@
 
-/* import fonts  */ 
+@import url('https://fonts.googleapis.com/css2?family=Londrina+Shadow&family=Mochiy+Pop+P+One&family=Open+Sans:ital,wght@1,300&display=swap');
 
 
 * {
-  /* add custom fonts here */
+  font-family: 'Mochiy Pop P One', sans-serif;
 }
 .App {
   display: flex;
